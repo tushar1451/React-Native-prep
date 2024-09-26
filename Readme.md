@@ -1,0 +1,1 @@
+## This repository contains the all the files and projects that I made in order to learn React Native, followinf the free React Native course on Youtube by Hitesh Choudhary
